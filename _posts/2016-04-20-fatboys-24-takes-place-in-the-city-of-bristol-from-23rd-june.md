@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Fatboys 24 takes place in the city of Bristol from 23rd June to 26th June inclusive. '
-datePublished: '2016-04-20T13:51:24.008Z'
-dateModified: '2016-04-20T13:50:51.954Z'
+datePublished: '2016-04-20T15:39:42.163Z'
+dateModified: '2016-04-20T13:51:30.142Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-fatboys-24-takes-place-in-the-city-of-bristol-from-23rd-june.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-fatboys-24-takes-place-in-the-city-of-bristol-from-23rd-june.md
-published: true
 url: fatboys-24-takes-place-in-the-city-of-bristol-from-23rd-june/index.html
 _type: Article
 
