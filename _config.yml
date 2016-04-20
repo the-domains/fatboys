@@ -1,0 +1,28 @@
+name: Fatboys
+favicon: null
+layout_spectrum: 0.11880190344527364
+typography_spectrum: 0.9245579531416297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5842186575755477
+  lightness: 0.6193753390107304
+  saturation: 0.3929351042024791
+  rhythmicContrast: 0.6816644966602325
+purpose: []
