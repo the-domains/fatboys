@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Dinner on Thursday is at the lovely chomp. Vegetarians need not apply. '
-datePublished: '2016-04-22T12:32:32.249Z'
-dateModified: '2016-04-22T12:32:11.108Z'
+datePublished: '2016-04-22T12:33:32.035Z'
+dateModified: '2016-04-22T12:32:42.278Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-dinner-on-thursday-is-at-the-lovely-chomp-vegetarians-need.md
